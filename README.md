@@ -12,7 +12,6 @@ New branch adding.
 
 Added from remote repository.
 
-This is added via local repository.
 
 one more line added via remote repository.
 
