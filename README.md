@@ -11,3 +11,4 @@ one more line added via remote repository.
 This is added via local repository.
 Added in local repo. after conflict.
 This is added after conflict.
+Added another line from remote to check diff. scenarios.
