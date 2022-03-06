@@ -1,5 +1,4 @@
 # devopslab
-
 Hello world.
 This is my first commit.
 this line added via github editor.
@@ -12,3 +11,4 @@ This is added via local repository.
 Added in local repo. after conflict.
 This is added after conflict.
 Added another line from remote to check diff. scenarios.
+changes done.
