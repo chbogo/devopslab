@@ -12,3 +12,4 @@ Added in local repo. after conflict.
 This is added after conflict.
 Added another line from remote to check diff. scenarios.
 changes done.
+New data entered in version v2. 
